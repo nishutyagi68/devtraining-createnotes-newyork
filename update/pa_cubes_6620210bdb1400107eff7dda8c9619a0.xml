@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_cubes">
+    <pa_cubes action="INSERT_OR_UPDATE">
+        <benchmarking>false</benchmarking>
+        <conditions table="x_58872_needit_needit">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </conditions>
+        <description>Active NeedIt Requests (NeedIt)</description>
+        <facts_table>x_58872_needit_needit</facts_table>
+        <facts_table_pk/>
+        <facts_table_pktable/>
+        <facts_table_pkview/>
+        <frequency>40</frequency>
+        <name>NeedIt.Active NeedIt Requests</name>
+        <report_source display_value="Active NeedIt Requests (NeedIt) (NeedIt)">4def950bdb1400107eff7dda8c9619be</report_source>
+        <report_source_updated_at>2019-10-09 18:56:29</report_source_updated_at>
+        <sys_class_name>pa_cubes</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-09 11:56:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6620210bdb1400107eff7dda8c9619a0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt.Active NeedIt Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>pa_cubes_6620210bdb1400107eff7dda8c9619a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-14 05:03:15</sys_updated_on>
+    </pa_cubes>
+    <sys_translated_text action="delete_multiple" query="documentkey=6620210bdb1400107eff7dda8c9619a0"/>
+</record_update>

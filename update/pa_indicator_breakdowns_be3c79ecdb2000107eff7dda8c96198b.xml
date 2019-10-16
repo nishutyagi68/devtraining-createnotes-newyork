@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns">
+    <pa_indicator_breakdowns action="INSERT_OR_UPDATE">
+        <breakdown display_value="NeedIt Requested for">323c79ecdb2000107eff7dda8c961988</breakdown>
+        <display>true</display>
+        <indicator display_value="NeedIt: Active Weekly">3862b964db2000107eff7dda8c9619be</indicator>
+        <order/>
+        <sql_statement/>
+        <sys_class_name>pa_indicator_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-14 05:49:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>be3c79ecdb2000107eff7dda8c96198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Requested for.NeedIt: Active Weekly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>pa_indicator_breakdowns_be3c79ecdb2000107eff7dda8c96198b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-14 05:49:35</sys_updated_on>
+    </pa_indicator_breakdowns>
+</record_update>
